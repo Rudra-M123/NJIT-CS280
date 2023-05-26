@@ -1,2 +1,2 @@
 # NJIT-CS280
-CS-280 with Professor Kapleau, 2023U
+Programming Language Concepts in Java/C++ with Professor Kapleau (CS-280, 2023U)
