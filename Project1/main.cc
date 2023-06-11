@@ -1,6 +1,5 @@
 /** File: main.cc
  *  Professor: Professor Kapleau
- *  Name: Rudra Mehta (rm279@njit.edu)
  *  Course: CS280
  *  Section: 011
  *  
